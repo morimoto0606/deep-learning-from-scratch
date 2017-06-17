@@ -1,0 +1,1 @@
+def mean_squared_erro(y, t)
